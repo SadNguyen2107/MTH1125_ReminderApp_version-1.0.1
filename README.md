@@ -7,12 +7,11 @@ Purpose of this project: For those who always forgot to do their MTH1125 homewor
 This project is for those learn MTH 1125 in Troy University. A Reminder Application
 Step 1: Download all the file
 Step 2: Double-click on the getAnnouncementInfo.exe file
-Step 4: Get your bearer token on the Troy Website (I'll make a video about how to get this token)
-Step 3: Remember to do the homeworks :)))))
+Step 3: Get your bearer token on the Troy Website 
+by doing :![image](https://user-images.githubusercontent.com/126353303/229347885-fbdf5e2f-f46a-4c8c-b566-928b91fd3170.png)
 
-# Instruction how to get the User Token:
-![image](https://user-images.githubusercontent.com/126353303/229347885-fbdf5e2f-f46a-4c8c-b566-928b91fd3170.png)
-![image](https://user-images.githubusercontent.com/126353303/229347891-8c69e28b-63e0-4b7c-8fe2-01615adac99f.png)
+then: ![image](https://user-images.githubusercontent.com/126353303/229347891-8c69e28b-63e0-4b7c-8fe2-01615adac99f.png)
+Step 3: Remember to do the homeworks :)))))
 
 
 # Numbers of User: 2
