@@ -10,4 +10,4 @@ Step 2: Double-click on the getAnnouncementInfo.exe file
 Step 4: Get your bearer token on the Troy Website (I'll make a video about how to get this token)
 Step 3: Remember to do the homeworks :)))))
 
-# Number of User: 2
+# Numbers of User: 2
